@@ -1,4 +1,6 @@
 # Happy-Moments-MERN-APP
+Live: https://happy-moments.netlify.app/
+
 This is my personal project that I developed while following some tutorials for MERN.
 Its a mini app to collect happy moments as a post.
 I did it in order to get full understanding of MERN stack.
